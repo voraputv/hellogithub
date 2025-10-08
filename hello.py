@@ -1,2 +1,7 @@
-print('Hello World')
-print('My name is Nui')
+# this is a simple hello world program
+def helloworld():
+    print('Hello World')    
+    print('My name is Nui')
+
+helloworld()
+
